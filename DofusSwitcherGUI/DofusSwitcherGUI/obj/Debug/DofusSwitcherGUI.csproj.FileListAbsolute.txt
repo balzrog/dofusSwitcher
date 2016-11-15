@@ -15,3 +15,6 @@ J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\bin\Debug\HardwareHelper
 J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\bin\Debug\HardwareHelperLib.pdb
 J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\obj\Debug\DofusSwitcherGUI.Form2.resources
 J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\bin\Debug\MouseKeyboardActivityMonitor.dll
+J:\Cours\Git\dofusSwitcher\DofusSwitcherGUI\DofusSwitcherGUI\bin\Debug\DofusSwitcherGUI.exe.config
+J:\Cours\Git\dofusSwitcher\DofusSwitcherGUI\DofusSwitcherGUI\obj\Debug\DofusSwitcherGUI.exe
+J:\Cours\Git\dofusSwitcher\DofusSwitcherGUI\DofusSwitcherGUI\obj\Debug\DofusSwitcherGUI.pdb

@@ -162,6 +162,7 @@ namespace DofusSwitcherGUI {
             while(isRunning) {
                 Thread.Sleep(40);
                 switchEcranWithKeyDownWithTab();
+                Console.WriteLine("SALUT");
             }
         }
 

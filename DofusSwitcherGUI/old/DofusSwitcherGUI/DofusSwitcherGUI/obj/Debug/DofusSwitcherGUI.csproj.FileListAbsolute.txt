@@ -28,3 +28,6 @@ J:\Cours\Workspace C#\DofusSwitcherGUI\old\DofusSwitcherGUI\DofusSwitcherGUI\obj
 J:\Cours\Workspace C#\DofusSwitcherGUI\old\DofusSwitcherGUI\DofusSwitcherGUI\obj\Debug\DofusSwitcherGUI.csproj.GenerateResource.Cache
 J:\Cours\Workspace C#\DofusSwitcherGUI\old\DofusSwitcherGUI\DofusSwitcherGUI\obj\Debug\DofusSwitcherGUI.exe.manifest
 J:\Cours\Workspace C#\DofusSwitcherGUI\old\DofusSwitcherGUI\DofusSwitcherGUI\obj\Debug\DofusSwitcherGUI.application
+J:\Cours\Git\dofusSwitcher\DofusSwitcherGUI\old\DofusSwitcherGUI\DofusSwitcherGUI\bin\Debug\DofusSwitcherGUI.exe.config
+J:\Cours\Git\dofusSwitcher\DofusSwitcherGUI\old\DofusSwitcherGUI\DofusSwitcherGUI\obj\Debug\DofusSwitcherGUI.exe
+J:\Cours\Git\dofusSwitcher\DofusSwitcherGUI\old\DofusSwitcherGUI\DofusSwitcherGUI\obj\Debug\DofusSwitcherGUI.pdb
