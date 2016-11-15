@@ -1,0 +1,4 @@
+J:\Cours\Workspace C#\DofusSwitcherGUI\HarwareHelperLib\bin\Debug\HardwareHelperLib.dll
+J:\Cours\Workspace C#\DofusSwitcherGUI\HarwareHelperLib\bin\Debug\HardwareHelperLib.pdb
+J:\Cours\Workspace C#\DofusSwitcherGUI\HarwareHelperLib\obj\Debug\HardwareHelperLib.dll
+J:\Cours\Workspace C#\DofusSwitcherGUI\HarwareHelperLib\obj\Debug\HardwareHelperLib.pdb

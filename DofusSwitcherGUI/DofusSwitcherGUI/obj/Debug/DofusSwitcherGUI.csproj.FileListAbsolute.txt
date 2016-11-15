@@ -1,0 +1,17 @@
+J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\bin\Debug\DofusSwitcherGUI.exe.config
+J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\bin\Debug\DofusSwitcherGUI.exe
+J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\bin\Debug\DofusSwitcherGUI.pdb
+J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\obj\Debug\DofusSwitcherGUI.csprojResolveAssemblyReference.cache
+J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\obj\Debug\DofusSwitcherGUI.Form1.resources
+J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\obj\Debug\DofusSwitcherGUI.Properties.Resources.resources
+J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\obj\Debug\DofusSwitcherGUI.csproj.GenerateResource.Cache
+J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\obj\Debug\DofusSwitcherGUI.exe
+J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\obj\Debug\DofusSwitcherGUI.pdb
+J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\bin\Debug\DofusSwitcherGUI.exe.manifest
+J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\bin\Debug\DofusSwitcherGUI.application
+J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\obj\Debug\DofusSwitcherGUI.exe.manifest
+J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\obj\Debug\DofusSwitcherGUI.application
+J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\bin\Debug\HardwareHelperLib.dll
+J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\bin\Debug\HardwareHelperLib.pdb
+J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\obj\Debug\DofusSwitcherGUI.Form2.resources
+J:\Cours\Workspace C#\DofusSwitcherGUI\DofusSwitcherGUI\bin\Debug\MouseKeyboardActivityMonitor.dll
